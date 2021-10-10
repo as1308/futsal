@@ -43,6 +43,3 @@ localhost/[nama_folder]/login.php
 | ------ | ------ |
 | user | user |
 
-**Created by andy saputra**
-**write code with 🖤**
-
