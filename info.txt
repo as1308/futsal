@@ -1,0 +1,13 @@
+fitur-fitur yang tersedia di dalamnya meliputi mengelola pesanan, 
+tarif pesanan perjam, data pelanggan, informasi pemesanan, mengelola pengguna,
+ profil lapang futsal, laporan pemesanan dan pendapatan, riwayat pemesanan dan lain sebagainya.
+Untuk hak aksesna terbagi menjadi dua, yaitu admin dan pelanggan. Untuk pelanggan akunnya dibuat oleh admin.
+
+Gunakan akun berikut ini agar dapat masuk ke dalam pemesanan lapangan futsal berbasis web. Halaman login untuk admin tambahkan admin pada url, contoh localhost/futsal/admin.
+Akun Administrator
+Username : admin
+Password:  admin
+
+Akun Pelanggan
+Username : user
+Password : user
